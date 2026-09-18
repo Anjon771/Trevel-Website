@@ -1,0 +1,8 @@
+{
+  "name": "Pathway - Travel Agency",
+  "description": "Handcrafted boutique travel itineraries across the world's most breathtaking alpine passes, ancient citadels, and serene landscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
